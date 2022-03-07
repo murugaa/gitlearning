@@ -1,0 +1,25 @@
+sudo yum install git -y
+
+git version
+or
+git --version
+
+cd /opt/
+mkdir -p <directory name>
+cd <directory name>
+git init
+git status
+git add
+git add *
+git commit -m
+git log
+git merge
+merge conflict
+git reset --hard
+
+git remote add origin <url>
+
+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
+
+git remote set-url origin https://murugaa@github.com/user/repo.git
+https://github.com/murugaa/devopslearning.git
